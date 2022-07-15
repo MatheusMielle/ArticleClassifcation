@@ -14,11 +14,8 @@
 // License: Copyright © 2022 Quentin Swett
 //
 // Credits and Sources:
-// - Scott Griffith (Ideas and Debugging)
+// - Scott Griffith - Whitworth CS Professor (Ideas and Debugging)
 ///////////////////////////////////////////////////////////////////////////////////////////////////
-
-// Good Job. Great idea, design, and implementation of the project.
-// Qian commented
 
 #include <iostream>
 #include <fstream>
