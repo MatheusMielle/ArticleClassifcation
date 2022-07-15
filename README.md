@@ -6,7 +6,7 @@ o	Sports Article
 o	News Article
 •	The program will output the score of the inputted file to be any of the above subjects
 
-# 2.	How was is done?
+# 2.	How was it done?
 
 •	2 Parts:
 
